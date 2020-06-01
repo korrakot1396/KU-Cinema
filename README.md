@@ -16,7 +16,7 @@
 โดย Project นี่ได้มีการใช้งาน Open Source Theme DashBordFX https://github.com/Gleidson28/DashboardFx เข้ามาเพื่อเพิ่มความสวยงาม โดย การทำงานของระบบของ KU CINEMA จะอยุ่ที่ PACKAGE com/gn/module/movie , com/gn/objects , com/gn/Database 
 
 ## ขั้นตอนการติดตั้งโปรเจค
-1. clone โปรเจคมาจาก github ลิ้งค์ https://github.com/folkdogfk/KUcinema.git
+1. clone โปรเจคมาจาก github ลิ้งค์ https://github.com/korrakot1396/KU-Cinema.git
 2. เมื่อ clone เสร็จเรียบร้อยให้ เปิดโปรแกรม Laragon 
 3. คลิ๊กขวาที่ MySQL และกด Start MySQL
 4. ต่อไป คลิ๊กขวาที่ MySQL อีกครั้ง และกด HeidiSQL
