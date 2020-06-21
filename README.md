@@ -1,5 +1,5 @@
 # Project Name - KU CINEMA 
-![](https://github.com/korrakot1396/KU-cinema/logo-mini.png)
+![](https://github.com/korrakot1396/KU-Cinema/logo-mini.png)
 # สมาชิกในกลุ่ม
 
 | รหัสนิสิต  | ชื่อ  | github username |
