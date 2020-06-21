@@ -1,5 +1,4 @@
 # Project Name - KU CINEMA 
-![](https://github.com/korrakot1396/KUcinema/blob/master/src/com/gn/module/media/logo-mini.png)
 ![](https://github.com/folkdogfk/KUcinema/blob/master/src/com/gn/module/media/logo-mini.png)
 # สมาชิกในกลุ่ม
 
